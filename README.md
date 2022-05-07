@@ -10,5 +10,5 @@
 
 以下列出目前專案的儲存庫
 
-- [購物網站](link1)
-- [單一登入入口 (SSO)](link2)
+- [購物網站](https://github.com/samuikaze/MyWork2022_Shopmall)
+- [單一登入入口 (SSO)](https://github.com/samuikaze/MyWork2022_SSO)
